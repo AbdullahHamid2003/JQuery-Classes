@@ -1,2 +1,2 @@
 # JQuery-Classes
-Auhtor - Abdullah Hamid
+Auhtor - Abdullah Hamid (Aptech)
